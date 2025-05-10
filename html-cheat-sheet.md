@@ -134,7 +134,7 @@ Want to improve this cheat sheet or add examples? Feel free to fork and submit a
 
 ## 🌐 Author
 
-**Your Name**
+**Kenil Balar**
 🔗 [LinkedIn](https://www.linkedin.com/in/kenil-balar-1167b1213/)
 📧 [E-Mail](mailto:kenilbalar2000@gmail.com)
 
