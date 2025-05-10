@@ -43,3 +43,12 @@ You can:
 - Front-End Engineers  
 - Coding Students  
 - Quick Reference at Work  
+
+---
+
+## 📦 How to Use
+
+```bash
+git clone https://github.com/KenilBalar/html-cheat-sheet.git
+cd html-cheat-sheet
+open html-cheat-sheet.md
